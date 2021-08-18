@@ -1,0 +1,28 @@
+input, textarea {
+    max-width: 500px;
+}
+
+form .error {
+    color: #ff0000;
+}
+
+.btn-icon {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+table.dataTable thead .sorting:after, table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_desc_disabled:after, table.dataTable thead .sorting_desc_disabled:before {
+    bottom: .5em;
+}
+
+#s-phone {
+    width: 100%;
+}
+
+.select2-container {
+    width: 100% !important;
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border: 1px solid #ced4da !important;
+}
